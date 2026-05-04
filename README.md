@@ -16,6 +16,7 @@ Projeto desenvolvido para portfólio de Analista de Dados.
 
 ## Estrutura do projeto
 
+```
 analise-vendas-olist/
 ├── data/
 │   ├── raw/         → CSVs originais do Kaggle (não modificados)
@@ -25,6 +26,7 @@ analise-vendas-olist/
 ├── sql/             → Queries de análise
 ├── images/          → Prints do dashboard
 └── README.md
+```
 
 ## Dashboard
 *(em breve)*
