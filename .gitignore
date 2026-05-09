@@ -208,3 +208,6 @@ __marimo__/
 anotacoes_estudo.md
 data/raw/
 data/processed/
+
+# Claude Code
+.claude/
