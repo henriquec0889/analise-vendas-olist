@@ -1,13 +1,23 @@
 # Análise de Vendas — E-commerce Olist
 
 Análise exploratória de 100 mil pedidos reais de e-commerce brasileiro (2016–2018).  
-Projeto desenvolvido para portfólio de Analista de Dados.
+Projeto desenvolvido para portfólio de Analista de Dados Júnior.
+
+## Dashboard
+
+![Dashboard Power BI](images/DashboardOlist.png)
+
+**Principais números (2016–2018):**
+- Faturamento total: **R$ 20.308.135**
+- Quantidade de vendas: **98.665**
+- Ticket médio: **R$ 205,83**
+- Taxa de entrega: **97,8%**
 
 ## Tecnologias utilizadas
 
 - **Python + Pandas** — limpeza e preparação dos dados
 - **SQL (SQLite)** — análise exploratória com perguntas de negócio
-- **Power BI** — dashboard interativo *(em desenvolvimento)*
+- **Power BI** — dashboard interativo com KPIs, evolução de vendas, ticket médio por produto e faturamento por estado
 
 ## Dataset
 
@@ -57,14 +67,11 @@ analise-vendas-olist/
 │   └── 02_analise_sql.ipynb   → 8 perguntas de negócio respondidas em SQL
 ├── sql/
 │   └── queries_negocio.sql    → Queries documentadas para uso no DBeaver
-├── images/                    → Screenshots do dashboard Power BI (em breve)
+├── images/
+│   └── DashboardOlist.png     → Screenshot do dashboard Power BI
 ├── requirements.txt           → Dependências Python
 └── README.md
 ```
-
-## Dashboard
-
-*(em desenvolvimento — Power BI)*
 
 ---
 
