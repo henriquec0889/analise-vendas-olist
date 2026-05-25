@@ -13,6 +13,10 @@ Projeto desenvolvido para portfólio de Analista de Dados Júnior.
 - Ticket médio: **R$ 205,83**
 - Taxa de entrega: **97,8%**
 
+## Pipeline do projeto
+
+![Pipeline do projeto](images/Pipeline.png)
+
 ## Tecnologias utilizadas
 
 - **Python + Pandas** — limpeza e preparação dos dados
@@ -68,7 +72,8 @@ analise-vendas-olist/
 ├── sql/
 │   └── queries_negocio.sql    → Queries documentadas para uso no DBeaver
 ├── images/
-│   └── DashboardOlist.png     → Screenshot do dashboard Power BI
+│   ├── DashboardOlist.png     → Screenshot do dashboard Power BI
+│   └── Pipeline.png           → Fluxograma do pipeline do projeto
 ├── requirements.txt           → Dependências Python
 └── README.md
 ```
